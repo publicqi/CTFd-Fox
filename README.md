@@ -1,6 +1,8 @@
 # CTFd-Fox
 [Chinese version](github.com/publicqi/CTFd-Fox/blob/master/README-zh.md)
 
+**Updated: It's stupid to use the same address for on Blockchian challenge as people definitely will steal exploits from other transactions. This repo has been abandoned.**
+
 No more static flags for smart contract challenges!
 
 There're some challenges store the static flag in the contract, allowing players to view it straightforward. This CTFd plugin avoids that! It requires only one more function in the contract (see [example.sol](github.com/publicqi/CTFd-Fox/blob/master/example.sol)).
